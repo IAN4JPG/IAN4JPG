@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Iman Maulana
 
-<!--
-**IAN4JPG/IAN4JPG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Smart contract security researcher focused on DeFi — AMM, lending, vaults, governance, and bridges.
 
-Here are some ideas to get you started:
+## What I do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Bug bounty hunting** — Immunefi, Cantina, CodeHawks, Sherlock. Every finding is reproduced on a local mainnet fork (Foundry) before it is reported.
+- **Security research** — static analysis (Slither, Aderyn), fuzzing (Echidna, Medusa), and symbolic execution (Halmos, Mythril).
+- **Responsible disclosure** — findings are published only after submission, fix, and disclosure clearance.
+
+## Portfolio
+
+- [security-research](https://github.com/IAN4JPG/security-research) — bug bounty write-ups, PoCs, and tooling.
+
+## Tools
+
+Foundry · Slither · Aderyn · Echidna · Medusa · Halmos · Mythril
