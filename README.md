@@ -4,7 +4,7 @@
 
 **Smart Contract Security Researcher — DeFi**
 
-I break DeFi protocols on purpose, then help fix them. Focus: AMM, lending, vaults, governance, and bridges. Based in Purwokerto, Indonesia.
+I break DeFi protocols on purpose, then help fix them. Focus: AMM, lending, vaults, governance, and bridges. Based in Indonesia.
 
 [![X](https://img.shields.io/badge/X-@twotwintail-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/twotwintail)
 [![Medium](https://img.shields.io/badge/Medium-@cavalierout-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@cavalierout)
