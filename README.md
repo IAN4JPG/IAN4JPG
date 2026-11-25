@@ -2,9 +2,9 @@
 
 # Iman Maulana
 
-**Smart Contract Security Researcher — DeFi**
+**Smart Contract Security Researcher · DeFi**
 
-I break DeFi protocols on purpose, then help fix them. Focus: AMM, lending, vaults, governance, and bridges. Based in Indonesia.
+I read bytecode the way other people read novels. I break DeFi protocols on purpose, then help fix them. AMM, lending, vaults, governance, bridges. Based in Indonesia, hunting worldwide.
 
 [![X](https://img.shields.io/badge/X-@twotwintail-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/twotwintail)
 [![Medium](https://img.shields.io/badge/Medium-@cavalierout-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@cavalierout)
@@ -13,22 +13,28 @@ I break DeFi protocols on purpose, then help fix them. Focus: AMM, lending, vaul
 
 </div>
 
+## Right now
+
+- **AgentBoard v2 is live.** An on-chain micro-bounty board for Binance Agent ID holders. The v2 contract runs pull payments, an immutable BNB + USDT allowlist, worker stakes and a dispute flow with an arbiter. Built and tested with 117 Foundry tests passing, 7/7 invariants and 21/21 Echidna properties.
+- **Hunting zero cost.** XE Network, Intigriti, YesWeHack and Bugcrowd. Every finding is reproduced on a local mainnet fork before it is reported.
+- **Building in the open.** Agent tooling and on-chain experiments, shipped as I go.
+
 ## What I do
 
-- **Bug bounty hunting** — Immunefi, Cantina, CodeHawks, Sherlock. Every finding is reproduced on a local mainnet fork (Foundry) before it is reported.
-- **Security research** — static analysis, fuzzing, and symbolic execution across the DeFi stack.
-- **Responsible disclosure** — findings are published only after submission, fix, and disclosure clearance.
-- **Building** — on-chain tooling for the agent economy.
+- **Bug bounty hunting** · Immunefi, Cantina, CodeHawks, Sherlock. Every finding is reproduced on a local mainnet fork (Foundry) before it is reported.
+- **Security research** · static analysis, fuzzing, and symbolic execution across the DeFi stack.
+- **Responsible disclosure** · findings are published only after submission, fix, and disclosure clearance.
+- **Building** · on-chain tooling for the agent economy.
 
 ## Featured projects
 
-### [AgentBoard](https://ian4jpg.github.io/agentboard/) — on-chain micro-bounty board for Agent ID holders
+### [AgentBoard](https://ian4jpg.github.io/agentboard/) · on-chain micro-bounty board for Agent ID holders
 
-Post a task, escrow the reward in BNB, and pay only when the work is verified. Built for the Binance Agent ID Hackathon, with the contract verified on BSC.
+Post a task, escrow the reward in BNB or USDT, and pay only when the work is verified. Built for the Binance Agent ID Hackathon, with the v1 contract verified on BSC. v2 adds pull payments, an immutable token allowlist, worker stakes and a dispute flow with an arbiter.
 
-- [Live demo](https://ian4jpg.github.io/agentboard/) · [Source](https://github.com/IAN4JPG/agentboard)
+- [Live demo](https://ian4jpg.github.io/agentboard/) · [Source](https://github.com/IAN4JPG/agentboard) · [v2 contract](https://bscscan.com/address/0x49bA23e06B7fEFa1AA18C4cD876d66315D7Dc121)
 
-### [security-research](https://github.com/IAN4JPG/security-research) — bug bounty write-ups, PoCs, and tooling
+### [security-research](https://github.com/IAN4JPG/security-research) · bug bounty write-ups, PoCs, and tooling
 
 Public write-ups and proof-of-concept code from my security research, shared only after disclosure clearance.
 
@@ -44,6 +50,7 @@ Public write-ups and proof-of-concept code from my security research, shared onl
 ![Medusa](https://img.shields.io/badge/Medusa-7C3AED?style=flat-square)
 ![Halmos](https://img.shields.io/badge/Halmos-1E40AF?style=flat-square)
 ![Mythril](https://img.shields.io/badge/Mythril-B45309?style=flat-square)
+![Heimdall](https://img.shields.io/badge/Heimdall-111827?style=flat-square)
 
 **Bounty platforms**
 
